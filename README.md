@@ -105,25 +105,29 @@ Forecasts potential IPL 2027 outcomes based on IPL 2026 data.
 
 ### Overview Dashboard
 
-(Add Screenshot Here)
+<img width="653" height="376" alt="Screenshot 2026-06-13 093122" src="https://github.com/user-attachments/assets/f86dda6c-1a14-4a3f-984a-9a924f2ffb39" />
+
 
 ### Team Analysis Dashboard
 
-(Add Screenshot Here)
+<img width="676" height="374" alt="Screenshot 2026-06-13 093206" src="https://github.com/user-attachments/assets/88b66c47-97f5-46e9-aa63-00e7426aa745" />
+
 
 ### Player Analysis Dashboard
 
-(Add Screenshot Here)
+<img width="665" height="349" alt="Screenshot 2026-06-13 093254" src="https://github.com/user-attachments/assets/58d0529a-c20a-425d-a5f5-b5c54385e7e7" />
+
 
 ### Venue Analysis Dashboard
 
-(Add Screenshot Here)
+<img width="433" height="288" alt="Screenshot 2026-06-12 161433" src="https://github.com/user-attachments/assets/ca9e4eca-1fbc-40a6-b7b7-eb03578a4902" />
+
 
 ### IPL 2027 Prediction Dashboard
 
-(Add Screenshot Here)
+<img width="609" height="338" alt="Screenshot 2026-06-13 093319" src="https://github.com/user-attachments/assets/a9cf4ef3-f556-4a92-906d-9c857caa2d96" />
 
----
+
 
 ## 📂 Project Structure
 
